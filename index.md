@@ -3,6 +3,11 @@
 The repository templates organization offers an ever-expanding
 collection of GitHub templates to choose from.
 
+## What are GitHub Templates?
+
+Templates were recently introduced to GitHub. More information can be
+found in their [blog post][templates-blog-post].
+
 ## How to use a template
 
 1. Go to the [repository templates GitHub page][github-page] and choose
@@ -20,5 +25,10 @@ future projects.
 
 ![image of dropdown list containing template](/assets/images/dropdown_templates.png)
 
+A detailed breakdown of GitHub templates can be found
+on the [GitHub help page][github-use-template-help].
+
 
 [github-page]: https://github.com/repository-templates
+[templates-blog-post]: https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
+[github-use-template-help]: https://help.github.com/en/articles/creating-a-repository-from-a-template
