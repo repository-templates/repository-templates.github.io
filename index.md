@@ -28,7 +28,15 @@ future projects.
 A detailed breakdown of GitHub templates can be found
 on the [GitHub help page][github-use-template-help].
 
+## Requesting a new template
+
+New templates can be requested by creating an issue in the [requests repository][requests-page].
+You can also [send us an email][contact-email] if you're willing to contribute code to a new template
+or join our development team. Don't forget to include your GitHub username.
+
 
 [github-page]: https://github.com/repository-templates
+[requests-page]: https://github.com/repository-templates/repo-requests/issues/new
+[contact-email]: mailto:templates@montudor.com
 [templates-blog-post]: https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
 [github-use-template-help]: https://help.github.com/en/articles/creating-a-repository-from-a-template
